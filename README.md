@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blagusd
-- 🌱 I’m currently learning for a master's degree in Electrical Engineering and Automation.
+- 🌱 Working as an Application Engineer for an automotive company, but also developing skills in web design.
 - 📫 How to reach me - https://www.linkedin.com/in/dorotea-blagus-7b053a21b/
 
 <!---
