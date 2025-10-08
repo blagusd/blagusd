@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @blagusd
-- 🌱 Working as an Application Engineer for an automotive company, but also developing skills in web design.
-- 📫 How to reach me - https://www.linkedin.com/in/dorotea-blagus-7b053a21b/
+- 🌱 Currently working as an Application Engineer for an automotive company.
+- 👀 Open to new opportunities • Mainly working with Python • Growing skills in SQL, HTML, CSS & especially JavaScript
+- 📫 How to reach me - https://www.linkedin.com/in/dorotea-blagus/
 
 <!---
 blagusd/blagusd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
